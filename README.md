@@ -8,3 +8,8 @@ Habilidades:
 - HTML básico
 - CSS básico
 - Python básico
+
+🔥
+
+Link para meu portifólio:
+https://github.com/cilugo/Repositorio-front-end/tree/main/lcportifolio
